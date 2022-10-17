@@ -1,5 +1,5 @@
 
-# Python Project: Google Dinosaur
+# Python Game: Google Dinosaur
 Implements the functioning of Google Dinosaur that performs fall functions in the tasks, developed by using python.
 ## Features
 
